@@ -1,1 +1,1 @@
-https://VitoZMX.io/rsschool-cv/cv
+https://VitoZMX.github.io/rsschool-cv/cv
