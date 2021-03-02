@@ -1,0 +1,55 @@
+.conteiner-center {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.two-block {
+    display: flex;
+}
+
+.left-columb {
+    position: relative;
+    display: block;
+    background-color: rgba(98, 98, 216, 0.205);
+    margin: 0px 10px 0px 0px;
+    border-radius: 9px;
+}
+
+.right-columb {
+    background-color: rgb(216, 98, 124, 0.205);
+    display: flex;
+    flex-direction: column;
+    border-radius: 9px;
+}
+
+.photo-profil {
+    height: 180px;
+}
+
+.punkt {
+    margin: 0px 0px 20px 10px;
+}
+
+.block-info {
+    margin-left: 10px;
+}
+
+.photo-profil {
+    display: block;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.profil-sub-menu {
+    list-style: none;
+    padding: 0;
+}
+
+.top-name {
+    margin: 0 auto;
+    text-align: center;
+}
