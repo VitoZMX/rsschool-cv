@@ -1,6 +1,6 @@
 .conteiner-center {
     margin: 0 auto;
-    width: 95%;
+    width: 1000px;
 }
 
 .two-block {
@@ -22,8 +22,12 @@
     border-radius: 9px;
 }
 
+.photo-profil {
+    height: 180px;
+}
+
 .punkt {
-    margin-left: 10px;
+    margin: 0px 0px 20px 10px;
 }
 
 .block-info {
