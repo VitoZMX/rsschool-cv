@@ -1,13 +1,13 @@
-.conteinercenter {
+.conteiner-center {
     margin: 0 auto;
-    width: 95%;
+    width: 1000px;
 }
 
-.twoblock {
+.two-block {
     display: flex;
 }
 
-.leftcolumb {
+.left-columb {
     position: relative;
     display: block;
     background-color: rgba(98, 98, 216, 0.205);
@@ -15,18 +15,22 @@
     border-radius: 9px;
 }
 
-.rightcolumb {
+.right-columb {
     background-color: rgb(216, 98, 124, 0.205);
     display: flex;
     flex-direction: column;
     border-radius: 9px;
 }
 
-.punkt {
-    margin-left: 10px;
+.photo-profil {
+    height: 180px;
 }
 
-.blockinfo {
+.punkt {
+    margin: 0px 0px 20px 10px;
+}
+
+.block-info {
     margin-left: 10px;
 }
 
@@ -45,7 +49,7 @@
     padding: 0;
 }
 
-.topname {
+.top-name {
     margin: 0 auto;
     text-align: center;
 }
